@@ -50,7 +50,3 @@ def main():
 print('Bot Running')
 main()
 
-#https://api.telegram.org/bot1959542063:AAGCe7w-2TGCZ_P3ZJPX-NbhB-EERllFSFY/getupdates
-#https://api.telegram.org/bot<<token>>/sendMessage?chat_id= CHATID&text=
-#1830445317
-#1767730053(me)
