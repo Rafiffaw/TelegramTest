@@ -3,9 +3,6 @@ from logging import error
 from telegram.ext import chatmemberhandler
 from telegram.ext import *
 import Responses as R
-import pandas as panda
-import requests
-import json
 
 keys = '5069133621:AAFPBhlDlhf-40XYNDJuzpKDDhAAtk8XOdc'
 
